@@ -2381,4 +2381,8 @@
 			}
 
 	}
-	.imagefeatured <width: 200px; length: 400px;>
+	#logo {
+	width: 33%; 
+	padding: 0px 0 0 85px;
+    margin-left: -96px;
+	}
